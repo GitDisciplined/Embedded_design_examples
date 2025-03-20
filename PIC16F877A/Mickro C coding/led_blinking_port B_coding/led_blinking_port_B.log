@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo16 -N"E:\PIC16F877A\Mickro C coding\led_blinking_port B_coding\led_blinking_port_B.mcppi" -SP"F:\mickro c\mikroC PRO for PIC\Defs\" -SP"F:\mickro c\mikroC PRO for PIC\Uses\P16\" -SP"E:\PIC16F877A\Mickro C coding\led_blinking_port B_coding\" -IP"F:\mickro c\mikroC PRO for PIC\Uses\P16\" "led_blinking_port_B.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	led_blinking_port_B.c
+diagnostics: 12	123	Compiled Successfully	led_blinking_port_B.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 35 (1%)  Free ROM (program words): 8157 (99%)	Used ROM (program words): 35 (1%)  Free ROM (program words): 8157 (99%)
+diagnostics: 0	125	Project Linked Successfully	led_blinking_port_B.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'led_blinking_port_B.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 10 Mar 2025, 23:53:30	led_blinking_port_B.mcppi
